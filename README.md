@@ -49,7 +49,7 @@ Bash
 
 ```
 # Clone the repository / 克隆仓库
-[git clone https://github.com/your-username/project-name.git](https://github.com/plain1740/YOLO-Based-Automated-Pipeline-for-Drone-Imagery-Refinement.git)
+git clone https://github.com/plain1740/YOLO-Based-Automated-Pipeline-for-Drone-Imagery-Refinement.git
 cd Drone Imagery Refinement
 
 # Install dependencies / 安装依赖
