@@ -1,0 +1,4 @@
+numpy==2.4.3
+opencv_python==4.13.0.92
+Shapely==2.1.2
+ultralytics==8.4.21
