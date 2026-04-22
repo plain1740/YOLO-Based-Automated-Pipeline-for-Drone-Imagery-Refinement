@@ -100,6 +100,7 @@ def process_all_videos(input_root, output_root, interval=60):
 
 if __name__ == "__main__":
     input_path = r"data/0_raw_video"   # 请替换为你的实际路径
+    input_path = r"D:/rivel_sample1/video/TODO"   # 请替换为你的实际路径
     output_path = r"data/1_raw_image" # 请替换为你的实际路径
     interval = 60
     # 配置你的路径

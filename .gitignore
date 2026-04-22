@@ -3,4 +3,11 @@ __pycache__/
 venv/
 .env
 .vscode/
+<<<<<<< HEAD
 .idea/
+=======
+.idea/
+data/
+models/
+>>>>>>> 3b8b2da (update: 修改了标注完成后对数据的一系列格式转换)
+.github/
